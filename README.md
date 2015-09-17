@@ -1,2 +1,5 @@
-# info
-Public information and documents for DeMeyere Design.
+
+# DeMeyere Design
+
+Visual communication design to support and evolve your business.  
+( internet | digital | print )
