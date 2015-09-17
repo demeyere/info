@@ -1,6 +1,3 @@
----
-revised: 2015-09-17 14:16  
----
 
 # DeMeyere Design
 
